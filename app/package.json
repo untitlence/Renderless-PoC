@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@crate/backend": "crate:*"
+  },
+  "devDependencies": {
+    "vite": "^4.3.8"
+  }
+}
